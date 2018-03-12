@@ -1,0 +1,10 @@
+C:\Users\soyyo\Desktop\aspnet-docker-example\bin\Debug\netcoreapp2.0\aspnet-docker-example.deps.json
+C:\Users\soyyo\Desktop\aspnet-docker-example\bin\Debug\netcoreapp2.0\aspnet-docker-example.runtimeconfig.json
+C:\Users\soyyo\Desktop\aspnet-docker-example\bin\Debug\netcoreapp2.0\aspnet-docker-example.runtimeconfig.dev.json
+C:\Users\soyyo\Desktop\aspnet-docker-example\bin\Debug\netcoreapp2.0\aspnet-docker-example.dll
+C:\Users\soyyo\Desktop\aspnet-docker-example\bin\Debug\netcoreapp2.0\aspnet-docker-example.pdb
+C:\Users\soyyo\Desktop\aspnet-docker-example\obj\Debug\netcoreapp2.0\aspnet-docker-example.csproj.CoreCompileInputs.cache
+C:\Users\soyyo\Desktop\aspnet-docker-example\obj\Debug\netcoreapp2.0\aspnet-docker-example.AssemblyInfoInputs.cache
+C:\Users\soyyo\Desktop\aspnet-docker-example\obj\Debug\netcoreapp2.0\aspnet-docker-example.AssemblyInfo.cs
+C:\Users\soyyo\Desktop\aspnet-docker-example\obj\Debug\netcoreapp2.0\aspnet-docker-example.dll
+C:\Users\soyyo\Desktop\aspnet-docker-example\obj\Debug\netcoreapp2.0\aspnet-docker-example.pdb
