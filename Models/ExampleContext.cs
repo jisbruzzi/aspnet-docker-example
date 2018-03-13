@@ -4,9 +4,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace aspnet_docker_example.Models
 {
-    public class UsersContext:DbContext
+    public class ExampleContext:DbContext
     {
-        public UsersContext(DbContextOptions<UsersContext> options)
+        public ExampleContext(DbContextOptions<ExampleContext> options)
             :base(options)
         {
         }

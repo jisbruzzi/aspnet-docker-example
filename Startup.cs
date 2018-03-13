@@ -27,7 +27,7 @@ namespace aspnet_docker_example
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<UsersContext>(opt=>opt.UseInMemoryDatabase("users"));//persistence
+            services.AddDbContext<ExampleContext>(opt=>opt.UseInMemoryDatabase("users"));//persistence
             services.AddMvc();
         }
 
